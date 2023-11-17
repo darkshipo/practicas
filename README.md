@@ -186,3 +186,4 @@ body {
 $(document).ready(function () {
     // Puedes agregar funciones de JavaScript aquí
 });
+Ayúdame a generar un api rest para un sitio de joyería local y debe generar los CRUD, los cuales tiene como tablas, productos, clientes, facturas, inventario, debe desarrollarse en Python y debe tener seguridad de tokens, además debe generar data provisional para cada tabla pra comprar la calidad de los endpoints, tambien utilzando SQLLITE
